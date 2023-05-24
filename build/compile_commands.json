@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpcapplication.cc.o -c /root/project/XuRPC/src/xurpcapplication.cc",
+  "file": "/root/project/XuRPC/src/xurpcapplication.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpcconfig.cc.o -c /root/project/XuRPC/src/xurpcconfig.cc",
+  "file": "/root/project/XuRPC/src/xurpcconfig.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpcheader.pb.cc.o -c /root/project/XuRPC/src/xurpcheader.pb.cc",
+  "file": "/root/project/XuRPC/src/xurpcheader.pb.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpcprovider.cc.o -c /root/project/XuRPC/src/xurpcprovider.cc",
+  "file": "/root/project/XuRPC/src/xurpcprovider.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpcchannel.cc.o -c /root/project/XuRPC/src/xurpcchannel.cc",
+  "file": "/root/project/XuRPC/src/xurpcchannel.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xulogger.cc.o -c /root/project/XuRPC/src/xulogger.cc",
+  "file": "/root/project/XuRPC/src/xulogger.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/zookeeperutil.cc.o -c /root/project/XuRPC/src/zookeeperutil.cc",
+  "file": "/root/project/XuRPC/src/zookeeperutil.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/src",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/xurpc.dir/xurpccontroller.cc.o -c /root/project/XuRPC/src/xurpccontroller.cc",
+  "file": "/root/project/XuRPC/src/xurpccontroller.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/provider.dir/friendservice.cc.o -c /root/project/XuRPC/example/callee/friendservice.cc",
+  "file": "/root/project/XuRPC/example/callee/friendservice.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /root/project/XuRPC/example/friend.pb.cc",
+  "file": "/root/project/XuRPC/example/friend.pb.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /root/project/XuRPC/example/caller/callfriendservice.cc",
+  "file": "/root/project/XuRPC/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/root/project/XuRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/root/project/XuRPC/src/include -I/root/project/XuRPC/example  -g   -std=gnu++11 -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /root/project/XuRPC/example/friend.pb.cc",
+  "file": "/root/project/XuRPC/example/friend.pb.cc"
+}
+]

@@ -1,0 +1,13 @@
+/root/project/XuRPC/build/CMakeFiles/rebuild_cache.dir
+/root/project/XuRPC/build/CMakeFiles/edit_cache.dir
+/root/project/XuRPC/build/src/CMakeFiles/rebuild_cache.dir
+/root/project/XuRPC/build/src/CMakeFiles/edit_cache.dir
+/root/project/XuRPC/build/src/CMakeFiles/xurpc.dir
+/root/project/XuRPC/build/example/CMakeFiles/rebuild_cache.dir
+/root/project/XuRPC/build/example/CMakeFiles/edit_cache.dir
+/root/project/XuRPC/build/example/callee/CMakeFiles/edit_cache.dir
+/root/project/XuRPC/build/example/callee/CMakeFiles/rebuild_cache.dir
+/root/project/XuRPC/build/example/callee/CMakeFiles/provider.dir
+/root/project/XuRPC/build/example/caller/CMakeFiles/rebuild_cache.dir
+/root/project/XuRPC/build/example/caller/CMakeFiles/edit_cache.dir
+/root/project/XuRPC/build/example/caller/CMakeFiles/consumer.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libxurpc.a  CMakeFiles/xurpc.dir/xurpcapplication.cc.o CMakeFiles/xurpc.dir/xurpcconfig.cc.o CMakeFiles/xurpc.dir/xurpcheader.pb.cc.o CMakeFiles/xurpc.dir/xurpcprovider.cc.o CMakeFiles/xurpc.dir/xurpcchannel.cc.o CMakeFiles/xurpc.dir/xulogger.cc.o CMakeFiles/xurpc.dir/zookeeperutil.cc.o CMakeFiles/xurpc.dir/xurpccontroller.cc.o
+/usr/bin/ranlib ../../lib/libxurpc.a
